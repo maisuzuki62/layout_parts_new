@@ -11,20 +11,24 @@
   width: 900px;
   padding: 20px;
   background-color: #eff3f4;
-  font-size: 18px;
-  line-height: 22px;
-  word-break: break-all;
+  margin: 0 auto;
 }
 
-.left {
+.q2_left {
   float: left;
   margin-right: 20px;
   margin-bottom: 10px;
 }
 
-.right {
+.q2_right {
   float: right;
   margin-left: 20px;
   margin-bottom: 10px;
+}
+
+.q2_text {
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
 }
 /* 回答はここに書いてね */

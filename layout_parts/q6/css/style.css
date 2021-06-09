@@ -9,12 +9,10 @@
   text-align: center;
 }
 
-.q6_1_backbox
 .q6_1_box {
   text-align: center;
 }
 
-.q6_1_box
 .q6_1_textalign {
   display: inline-block;
 }
@@ -38,7 +36,6 @@
   text-align: center;
 }
 
-.q6_2_box
 .q6_2_tabletext {
   display: inline-block;
 }
