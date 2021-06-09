@@ -19,11 +19,6 @@
   transform: scale(1.5);
 }
 
-.q8_transition:hover
-.q8_transition_behind {
-  bottom: 0;
-}
-
 .q8_transition_text {
   font-size: 16px;
   line-height: 16px;
@@ -43,6 +38,11 @@
   bottom: -100%;
   left: 0;
   transition: all .5s;
+}
+
+.q8_transition:hover
+.q8_transition_behind {
+  bottom: 0;
 }
 
 .q8_cir_gray {
