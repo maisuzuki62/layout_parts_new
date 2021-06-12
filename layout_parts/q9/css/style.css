@@ -15,21 +15,20 @@
   line-height: 16px;
 }
 
-.q9_balloon::after {
+.q9_balloon::before {
   position: absolute;
   content: "";
   display: block;
   width: 0;
   height: 0;
-  border-top: solid 26px #222;
-  border-right: solid 26px transparent;
-  border-left: solid 26px transparent;
-  bottom: -26px;
-  left: 20px;
-  z-index: 1;
+  border-top: solid 20px #222;
+  border-right: solid 20px transparent;
+  border-left: solid 20px transparent;
+  bottom: -25px;
+  left: 30px;
 }
 
-.q9_balloon::before {
+.q9_balloon::after {
   position: absolute;
   content: "";
   display: block;
@@ -38,9 +37,8 @@
   border-top: solid 20px #fff;
   border-right: solid 20px transparent;
   border-left: solid 20px transparent;
-  bottom: -19px;
-  left: 26px;
-  z-index: 2;
+  bottom: -18px;
+  left: 30px;
 }
   
 /* 回答はここに書いてね */

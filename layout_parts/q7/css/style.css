@@ -14,6 +14,7 @@
   font-size: 16px;
   box-sizing: border-box;
 }
+
 .q7_1_text:first-child {
   margin-left: 0;
 }
@@ -71,7 +72,6 @@
   display: inline-block;
   font-size: 16px;
   vertical-align: top;
-  box-sizing: border-box;
 }
 
 .q7_5_text:first-child {
@@ -82,5 +82,6 @@
   width: 100%;
   margin-left: -300px;
   padding-left: 350px;
+  box-sizing: border-box;
 }
 /* 回答はここに書いてね */
